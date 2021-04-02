@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://i.imgur.com/i55ktTL.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astrounauta fazendo v">
 
 # <a href="https://www.instagram.com/ulisses.brandao"> Ola terráqueos</a>
  ## Sobre mim
