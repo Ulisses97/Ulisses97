@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/i55ktTL.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astrounauta fazendo v">
 
-# <a href="https://www.instagram.com/ulisses.brandao">Ola terráqueos ✌️</a>
+# <a href="https://www.instagram.com/ulisses.brandao">Olá terráqueos ✌️</a>
  ## Sobre mim 🙋‍♂️
 Natural de Presidente Kubitschek - MG me chamo Ulisses Brandão e sou estudante Sistemas de Informação na Universidade Federal dos Vales dos Jequitinhonha e Mucuri - UFVJM . Lutando todos os dias com muita persistência e comprometimento para alcançar meus sonhos e entregar o melhor resultado.
 <br>
