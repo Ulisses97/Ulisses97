@@ -30,8 +30,8 @@ Natural de Presidente Kubitschek - MG me chamo Ulisses Brandão e sou estudante 
 
 ##  Bora tomar um café?  ☕
 - <a href="https://www.linkedin.com/in/ulisses-brand%C3%A3o-84a4211b5/">Linkedin</a>
-- - <a href="https://www.facebook.com/">Facebook</a>
-- - <a href="https://www.instagram.com/">Instagram</a>
+- <a href="https://www.facebook.com/">Facebook</a>
+- <a href="https://www.instagram.com/">Instagram</a>
 </div>
 
 <!-- modelo inspirado na giovannamoeller -->
