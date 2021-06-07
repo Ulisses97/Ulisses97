@@ -2,7 +2,7 @@
 
 # <a href="https://www.instagram.com/ulisses.brandao">Olá terráqueos ✌️</a>
  ## Sobre mim 🙋‍♂️
-Natural de Presidente Kubitschek - MG me chamo Ulisses Brandão e sou estudante Sistemas de Informação na Universidade Federal dos Vales dos Jequitinhonha e Mucuri - UFVJM . Lutando todos os dias com muita persistência e comprometimento para alcançar meus sonhos e entregar o melhor resultado.
+Natural de Presidente Kubitschek - MG e amante de **Design** e **Programação** me chamo Ulisses Brandão e sou estudante de Sistemas de Informação na Universidade Federal dos Vales dos Jequitinhonha e Mucuri - UFVJM. Estou lutando todos os dias com muita persistência e comprometimento para alcançar meus sonhos e entregar o melhor resultado.
 <br>
 
 ## Habilidades 👨‍💻
@@ -36,5 +36,3 @@ Natural de Presidente Kubitschek - MG me chamo Ulisses Brandão e sou estudante 
 - <a href="https://www.facebook.com/">Facebook</a>
 - <a href="https://www.instagram.com/ulisses.brandao/">Instagram</a>
 </div>
-
-<!-- modelo inspirado na giovannamoeller -->
