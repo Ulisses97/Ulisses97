@@ -8,8 +8,9 @@ Natural de Presidente Kubitschek - MG me chamo Ulisses Brandão e sou estudante 
 ## Habilidades 👨‍💻
 - Designer Gráfico 
 - UI/UX Design 
-- FrontEnd: HTML - CSS - JS (React, React Native)
+- FrontEnd: HTML - CSS - JS React
 - BackEnd: NodeJS
+- Mobile: React Native
 - Banco de Dados Relacional/Não Relacional
 - Linguagens que me arrisco:  C++ JAVA e Python
 - Empreendedorismo em Startup (Loading...)
