@@ -5,7 +5,7 @@
 
 <div>
 <p  align="left" >
-Colors, strokes, shapes, and code bring me joy. I am a software developer with over 3 years of experience in creating websites, systems, and applications. I enjoy working on challenging and collaborative projects where I can both learn and contribute with my skills. My goal is to deliver creative and functional solutions that meet the needs of clients and users.
+Colors, strokes, shapes, and code bring me joy. I am a software developer graduating from "Universidade Federal dos Vales do Jequitinhonha e Mucuri - Brasil" with over 3 years of experience in creating websites, systems, and applications. I enjoy working on challenging and collaborative projects where I can both learn and contribute with my skills. My goal is to deliver creative and functional solutions that meet the needs of clients and users.
 
 I am proficient in web technologies such as HTML, CSS, and JavaScript, and frameworks like React, Next, and Node, along with tools such as MaterialUi and Tailwind CSS. I am also a designer with a keen eye for aesthetics and usability.
 
