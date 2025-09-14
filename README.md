@@ -1,36 +1,83 @@
-[![MasterHead](https://i.imgur.com/I1fF8zK.jpg)](https://www.ulissesbrandao.com.br)
+<br clear="both">
 
-<h1 align="center">Hi 👋, I'm Ulisses Brandão</h1>
-<h3 align="center">Software developer in Brazil</h3>
-
-<div>
-<p  align="left" >
-Colors, strokes, shapes, and code bring me joy. I am a software developer graduating from "Universidade Federal dos Vales do Jequitinhonha e Mucuri - Brasil" with over 3 years of experience in creating websites, systems, and applications. I enjoy working on challenging and collaborative projects where I can both learn and contribute with my skills. My goal is to deliver creative and functional solutions that meet the needs of clients and users.
-
-I am proficient in web technologies such as HTML, CSS, and JavaScript, and frameworks like React, Next, and Node, along with tools such as MaterialUi and Tailwind CSS. I am also a designer with a keen eye for aesthetics and usability.
-
-Currently, I work as a lead developer in a team, where we use frontend technologies and the agile SCRUM methodology to organize our work. Also, I am studying Next.Js to increase my skills. As I also want to bring all this knowledge to my future blog
-
-<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ulisses97&show_icons=true&locale=en&layout=compact" alt="ulisses97" /></p>
-<br/><br/>
-
-- 🔭 I’m currently working on **Tech leader**
-
-- 🌱 I’m currently learning **Next.js, Nest.js**
-
-- 👨‍💻 All of my projects are available at [www.ulissesbrandao.com.br](www.ulissesbrandao.com.br)
-
-- 📝 I regularly write articles on [www.ulissesbrandao.com.br/blog](www.ulissesbrandao.com.br/blog)
-
-- 💬 Ask me about **react, figma, node, react native**
-
-- 📫 How to reach me **ulissespkk@hotmail.com**
-
-</p>
-
+<div align="center">
+  <img height="150" src="https://i.imgur.com/B6fgQfR.jpeg"  />
 </div>
-<div  align="center">
-<img width="400"  src="https://i.imgur.com/Vk6w8LZ.png" alt="ulisses" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ulisses97.Ulisses97&"  />
 </div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m currently working on Software Developer Full Stack<br>- 📚  I’m currently learning Node.js, Python and React/Next.js,<br>- 👨‍💻 All of my projects are available at www.ulissesbrandao.com.br<br>- ⚡ In my free time I play te guitar<br>- 💬 Ask me about react, figma, node, react native</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ulisses97&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulisses97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ulisses97/Ulisses97/output/snake.svg" alt="Snake animation" />
+
+###
